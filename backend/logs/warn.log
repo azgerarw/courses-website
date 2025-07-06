@@ -1,0 +1,46 @@
+[2025-05-27T11:34:58.859Z] ERROR: Login incorrecto para usuario: undefined
+[2025-05-27T11:36:34.676Z] ERROR: Login incorrecto para usuario: undefined
+[2025-05-27T11:36:43.428Z] ERROR: Login incorrecto para usuario: undefined
+[2025-05-27T11:37:10.364Z] ERROR: Login incorrecto para usuario: undefined
+[2025-05-27T12:15:00.282Z] WARN: Logout con token inválido o expirado
+[2025-05-27T12:15:49.325Z] ERROR: Login incorrecto para usuario: undefined
+[2025-05-27T12:16:30.011Z] ERROR: Login incorrecto para usuario: undefined
+[2025-05-27T13:50:59.388Z] WARN: Logout con token inválido o expirado
+[2025-05-28T08:50:05.221Z] WARN: Logout con token inválido o expirado
+[2025-05-30T07:54:23.490Z] ERROR: Login incorrecto para usuario: undefined
+[2025-05-31T08:10:29.624Z] WARN: Logout con token inválido o expirado
+[2025-05-31T12:43:31.917Z] WARN: Logout con token inválido o expirado
+[2025-06-02T15:22:10.641Z] ERROR: Login incorrecto para usuario: undefined
+[2025-06-02T15:22:10.726Z] ERROR: Login incorrecto para usuario: undefined
+[2025-06-02T15:22:10.741Z] ERROR: Login incorrecto para usuario: undefined
+[2025-06-02T15:25:14.643Z] ERROR: Login incorrecto para usuario: undefined
+[2025-06-02T15:25:14.795Z] ERROR: Login incorrecto para usuario: undefined
+[2025-06-02T15:25:14.836Z] ERROR: Login incorrecto para usuario: undefined
+[2025-06-02T16:58:05.775Z] ERROR: Login incorrecto para usuario: undefined
+[2025-06-02T16:58:05.897Z] ERROR: Login incorrecto para usuario: undefined
+[2025-06-02T16:58:05.919Z] ERROR: Login incorrecto para usuario: undefined
+[2025-06-02T16:58:17.612Z] ERROR: Login incorrecto para usuario: undefined
+[2025-06-02T16:58:17.720Z] ERROR: Login incorrecto para usuario: undefined
+[2025-06-02T16:58:17.731Z] ERROR: Login incorrecto para usuario: undefined
+[2025-06-02T16:59:20.400Z] ERROR: Login incorrecto para usuario: undefined
+[2025-06-02T16:59:20.512Z] ERROR: Login incorrecto para usuario: undefined
+[2025-06-02T16:59:20.523Z] ERROR: Login incorrecto para usuario: undefined
+[2025-06-02T17:01:51.721Z] ERROR: Login incorrecto para usuario: undefined
+[2025-06-02T17:01:51.885Z] ERROR: Login incorrecto para usuario: undefined
+[2025-06-02T17:01:51.947Z] ERROR: Login incorrecto para usuario: undefined
+[2025-06-02T17:03:09.716Z] ERROR: Login incorrecto para usuario: undefined
+[2025-06-02T17:03:09.881Z] ERROR: Login incorrecto para usuario: undefined
+[2025-06-02T17:03:09.902Z] ERROR: Login incorrecto para usuario: undefined
+[2025-06-03T17:12:06.985Z] WARN: Logout con token inválido o expirado
+[2025-06-06T07:45:09.819Z] WARN: Logout con token inválido o expirado
+[2025-06-06T08:52:24.610Z] WARN: Logout con token inválido o expirado
+[2025-06-06T11:47:34.655Z] WARN: Logout con token inválido o expirado
+[2025-06-06T11:51:35.605Z] WARN: Logout con token inválido o expirado
+[2025-06-10T10:26:07.522Z] WARN: Logout con token inválido o expirado
+[2025-06-11T07:17:31.965Z] WARN: Logout con token inválido o expirado
+[2025-06-15T14:16:17.067Z] ERROR: function () { [native code] }
+[2025-06-15T14:31:01.088Z] ERROR: Error: SQLITE_CONSTRAINT: NOT NULL constraint failed: contacto.mensaje
+[2025-06-15T14:33:18.949Z] ERROR: Error: SQLITE_CONSTRAINT: NOT NULL constraint failed: contacto.mensaje
+[2025-06-15T14:34:26.911Z] ERROR: Error: SQLITE_CONSTRAINT: NOT NULL constraint failed: contacto.mensaje
+[2025-06-15T14:44:10.109Z] ERROR: Error: SQLITE_CONSTRAINT: NOT NULL constraint failed: contacto.mensaje
+[2025-06-18T16:18:16.716Z] WARN: Logout con token inválido o expirado

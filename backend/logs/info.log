@@ -1,0 +1,248 @@
+[2025-05-27T07:48:27.456Z] INFO: Logout de usuario: gerardo2 (ID: 32)
+[2025-05-27T11:31:02.821Z] INFO: Login correcto para usuario: gerardo2 desde IP ::ffff:127.0.0.1
+[2025-05-27T11:34:47.536Z] INFO: Logout de usuario: gerardo2 (ID: 32)
+[2025-05-27T11:34:58.859Z] ERROR: Login incorrecto para usuario: undefined
+[2025-05-27T11:35:07.381Z] INFO: Login correcto para usuario: gerardo2 desde IP ::ffff:127.0.0.1
+[2025-05-27T11:35:10.200Z] INFO: Logout de usuario: gerardo2 (ID: 32)
+[2025-05-27T11:36:34.676Z] ERROR: Login incorrecto para usuario: undefined
+[2025-05-27T11:36:43.428Z] ERROR: Login incorrecto para usuario: undefined
+[2025-05-27T11:37:10.364Z] ERROR: Login incorrecto para usuario: undefined
+[2025-05-27T12:15:00.282Z] WARN: Logout con token inválido o expirado
+[2025-05-27T12:15:49.325Z] ERROR: Login incorrecto para usuario: undefined
+[2025-05-27T12:16:30.011Z] ERROR: Login incorrecto para usuario: undefined
+[2025-05-27T12:16:36.129Z] INFO: Login correcto para usuario: gerardo2 desde IP ::ffff:127.0.0.1
+[2025-05-27T13:50:59.388Z] WARN: Logout con token inválido o expirado
+[2025-05-27T13:51:05.729Z] INFO: Login correcto para usuario: gerardo2 desde IP ::ffff:127.0.0.1
+[2025-05-27T14:19:19.966Z] INFO: Login correcto para usuario: gerardo2 desde IP ::ffff:127.0.0.1
+[2025-05-27T14:20:46.790Z] INFO: Logout de usuario: gerardo2 (ID: 32)
+[2025-05-28T06:15:39.547Z] INFO: Login correcto para usuario: gerardo2 desde IP ::ffff:127.0.0.1
+[2025-05-28T06:16:30.948Z] INFO: gerardo2 ha añadido una reseña
+[2025-05-28T06:45:55.160Z] INFO: gerardo2 ha añadido una reseña
+[2025-05-28T08:50:05.221Z] WARN: Logout con token inválido o expirado
+[2025-05-28T12:35:12.505Z] INFO: Login correcto para usuario: gerardo2 desde IP ::ffff:127.0.0.1
+[2025-05-28T12:37:46.148Z] INFO: Logout de usuario: gerardo2 (ID: 32)
+[2025-05-30T05:55:30.163Z] INFO: Login correcto para usuario: gerardo2 desde IP ::ffff:127.0.0.1
+[2025-05-30T06:26:34.145Z] INFO: Logout de usuario: gerardo2 (ID: 32)
+[2025-05-30T06:30:26.489Z] INFO: Login correcto para usuario: gerardo2 desde IP ::ffff:127.0.0.1
+[2025-05-30T06:30:49.382Z] INFO: Logout de usuario: gerardo2 (ID: 32)
+[2025-05-30T07:41:53.924Z] INFO: Login correcto para usuario: Sedrick82 desde IP ::ffff:127.0.0.1
+[2025-05-30T07:42:37.736Z] INFO: Sedrick82 ha actualizado su foto de perfil
+[2025-05-30T07:53:56.807Z] INFO: Logout de usuario: Sedrick82 (ID: 34)
+[2025-05-30T07:54:23.490Z] ERROR: Login incorrecto para usuario: undefined
+[2025-05-30T07:54:32.488Z] INFO: Login correcto para usuario: Cicero.Dare94 desde IP ::ffff:127.0.0.1
+[2025-05-30T08:09:27.840Z] INFO: Logout de usuario: Cicero.Dare94 (ID: 36)
+[2025-05-30T08:09:37.300Z] INFO: Login correcto para usuario: gerardo2 desde IP ::ffff:127.0.0.1
+[2025-05-30T08:09:44.805Z] INFO: Logout de usuario: gerardo2 (ID: 32)
+[2025-05-30T10:55:30.883Z] INFO: Login correcto para usuario: gerardo2 desde IP ::ffff:127.0.0.1
+[2025-05-30T11:41:37.210Z] INFO: Logout de usuario: gerardo2 (ID: 32)
+[2025-05-30T17:00:10.487Z] INFO: Login correcto para usuario: gerardo2 desde IP ::ffff:127.0.0.1
+[2025-05-31T08:10:29.624Z] WARN: Logout con token inválido o expirado
+[2025-05-31T10:53:56.754Z] INFO: Login correcto para usuario: gerardo2 desde IP ::ffff:127.0.0.1
+[2025-05-31T10:54:11.562Z] INFO: Logout de usuario: gerardo2 (ID: 32)
+[2025-05-31T11:34:50.034Z] INFO: Login correcto para usuario: gerardo2 desde IP ::ffff:127.0.0.1
+[2025-05-31T12:17:34.522Z] INFO: gerardo2 se ha inscrito al curso # 10
+[2025-05-31T12:43:31.917Z] WARN: Logout con token inválido o expirado
+[2025-05-31T13:02:30.320Z] INFO: Login correcto para usuario: gerardo2 desde IP ::ffff:127.0.0.1
+[2025-05-31T13:14:24.215Z] INFO: Logout de usuario: gerardo2 (ID: 32)
+[2025-06-02T08:01:40.508Z] INFO: Login correcto para usuario: gerardo2 desde IP ::ffff:127.0.0.1
+[2025-06-02T08:15:02.308Z] INFO: Logout de usuario: gerardo2 (ID: 32)
+[2025-06-02T11:57:24.579Z] INFO: Login correcto para usuario: gerardo desde IP ::1
+[2025-06-02T12:01:50.313Z] INFO: Login correcto para usuario: gerardo desde IP ::1
+[2025-06-02T12:09:29.804Z] INFO: Login correcto para usuario: gerardo desde IP ::1
+[2025-06-02T12:11:46.971Z] INFO: Login correcto para usuario: gerardo desde IP ::1
+[2025-06-02T12:15:46.178Z] INFO: Login correcto para usuario: gerardo desde IP ::1
+[2025-06-02T12:16:38.002Z] INFO: gerardo ha añadido una reseña
+[2025-06-02T15:22:10.641Z] ERROR: Login incorrecto para usuario: undefined
+[2025-06-02T15:22:10.726Z] ERROR: Login incorrecto para usuario: undefined
+[2025-06-02T15:22:10.741Z] ERROR: Login incorrecto para usuario: undefined
+[2025-06-02T15:22:10.849Z] INFO: Login correcto para usuario: gerardo desde IP ::ffff:127.0.0.1
+[2025-06-02T15:25:14.643Z] ERROR: Login incorrecto para usuario: undefined
+[2025-06-02T15:25:14.795Z] ERROR: Login incorrecto para usuario: undefined
+[2025-06-02T15:25:14.836Z] ERROR: Login incorrecto para usuario: undefined
+[2025-06-02T15:25:14.958Z] INFO: Login correcto para usuario: usuario desde IP ::ffff:127.0.0.1
+[2025-06-02T15:25:14.964Z] INFO: Login correcto para usuario: gerardo desde IP ::ffff:127.0.0.1
+[2025-06-02T15:25:15.081Z] INFO: usuario ha actualizado su correo electrónico
+[2025-06-02T15:25:15.163Z] INFO: usuario acaba de eliminar su cuenta
+[2025-06-02T15:53:10.706Z] INFO: Login correcto para usuario: gerardo2 desde IP ::ffff:127.0.0.1
+[2025-06-02T15:53:17.748Z] INFO: Logout de usuario: gerardo2 (ID: 32)
+[2025-06-02T16:58:05.775Z] ERROR: Login incorrecto para usuario: undefined
+[2025-06-02T16:58:05.897Z] ERROR: Login incorrecto para usuario: undefined
+[2025-06-02T16:58:05.919Z] ERROR: Login incorrecto para usuario: undefined
+[2025-06-02T16:58:05.993Z] INFO: Login correcto para usuario: usuario desde IP ::ffff:127.0.0.1
+[2025-06-02T16:58:06.034Z] INFO: Login correcto para usuario: gerardo desde IP ::ffff:127.0.0.1
+[2025-06-02T16:58:06.134Z] INFO: usuario ha actualizado su correo electrónico
+[2025-06-02T16:58:06.221Z] INFO: usuario acaba de eliminar su cuenta
+[2025-06-02T16:58:17.612Z] ERROR: Login incorrecto para usuario: undefined
+[2025-06-02T16:58:17.720Z] ERROR: Login incorrecto para usuario: undefined
+[2025-06-02T16:58:17.731Z] ERROR: Login incorrecto para usuario: undefined
+[2025-06-02T16:58:17.806Z] INFO: Login correcto para usuario: usuario desde IP ::ffff:127.0.0.1
+[2025-06-02T16:58:17.843Z] INFO: Login correcto para usuario: gerardo desde IP ::ffff:127.0.0.1
+[2025-06-02T16:58:17.901Z] INFO: usuario ha actualizado su correo electrónico
+[2025-06-02T16:58:17.941Z] INFO: usuario acaba de eliminar su cuenta
+[2025-06-02T16:59:20.400Z] ERROR: Login incorrecto para usuario: undefined
+[2025-06-02T16:59:20.512Z] ERROR: Login incorrecto para usuario: undefined
+[2025-06-02T16:59:20.523Z] ERROR: Login incorrecto para usuario: undefined
+[2025-06-02T16:59:20.591Z] INFO: Login correcto para usuario: usuario desde IP ::ffff:127.0.0.1
+[2025-06-02T16:59:20.643Z] INFO: Login correcto para usuario: gerardo desde IP ::ffff:127.0.0.1
+[2025-06-02T16:59:20.696Z] INFO: usuario ha actualizado su correo electrónico
+[2025-06-02T16:59:20.798Z] INFO: usuario acaba de eliminar su cuenta
+[2025-06-02T17:01:51.721Z] ERROR: Login incorrecto para usuario: undefined
+[2025-06-02T17:01:51.885Z] ERROR: Login incorrecto para usuario: undefined
+[2025-06-02T17:01:51.947Z] ERROR: Login incorrecto para usuario: undefined
+[2025-06-02T17:01:52.016Z] INFO: Login correcto para usuario: usuario desde IP ::ffff:127.0.0.1
+[2025-06-02T17:01:52.119Z] INFO: usuario ha actualizado su correo electrónico
+[2025-06-02T17:01:52.125Z] INFO: Login correcto para usuario: gerardo desde IP ::ffff:127.0.0.1
+[2025-06-02T17:01:52.178Z] INFO: usuario acaba de eliminar su cuenta
+[2025-06-02T17:03:09.716Z] ERROR: Login incorrecto para usuario: undefined
+[2025-06-02T17:03:09.881Z] ERROR: Login incorrecto para usuario: undefined
+[2025-06-02T17:03:09.902Z] ERROR: Login incorrecto para usuario: undefined
+[2025-06-02T17:03:09.931Z] INFO: Login correcto para usuario: usuario desde IP ::ffff:127.0.0.1
+[2025-06-02T17:03:10.033Z] INFO: usuario ha actualizado su correo electrónico
+[2025-06-02T17:03:10.050Z] INFO: Login correcto para usuario: gerardo desde IP ::ffff:127.0.0.1
+[2025-06-02T17:03:10.083Z] INFO: usuario acaba de eliminar su cuenta
+[2025-06-03T08:54:45.393Z] INFO: gerardo ha envíado un mensaje de contacto al servidor
+[2025-06-03T12:09:55.662Z] INFO: Login correcto para usuario: gerardo2 desde IP ::ffff:127.0.0.1
+[2025-06-03T12:42:00.686Z] INFO: Logout de usuario: gerardo2 (ID: 32)
+[2025-06-03T12:42:08.985Z] INFO: Login correcto para usuario: gerardo2 desde IP ::ffff:127.0.0.1
+[2025-06-03T13:22:07.325Z] INFO: Logout de usuario: gerardo2 (ID: 32)
+[2025-06-03T13:22:16.446Z] INFO: Login correcto para usuario: gerardo2 desde IP ::ffff:127.0.0.1
+[2025-06-03T13:26:56.680Z] INFO: Logout de usuario: gerardo2 (ID: 32)
+[2025-06-03T13:27:01.929Z] INFO: Login correcto para usuario: samanta desde IP ::ffff:127.0.0.1
+[2025-06-03T13:29:55.863Z] INFO: Logout de usuario: samanta (ID: 16)
+[2025-06-03T13:30:01.283Z] INFO: Login correcto para usuario: gerardo2 desde IP ::ffff:127.0.0.1
+[2025-06-03T17:12:06.985Z] WARN: Logout con token inválido o expirado
+[2025-06-03T17:12:12.069Z] INFO: Login correcto para usuario: gerardo2 desde IP ::ffff:127.0.0.1
+[2025-06-03T17:50:47.723Z] INFO: Logout de usuario: gerardo2 (ID: 32)
+[2025-06-03T17:50:55.818Z] INFO: Login correcto para usuario: gerardo2 desde IP ::ffff:127.0.0.1
+[2025-06-06T07:45:09.819Z] WARN: Logout con token inválido o expirado
+[2025-06-06T07:45:35.908Z] INFO: Login correcto para usuario: gerardo2 desde IP ::ffff:127.0.0.1
+[2025-06-06T08:52:24.610Z] WARN: Logout con token inválido o expirado
+[2025-06-06T08:52:30.265Z] INFO: Login correcto para usuario: carlos desde IP ::ffff:127.0.0.1
+[2025-06-06T08:54:53.484Z] INFO: Logout de usuario: carlos (ID: 17)
+[2025-06-06T08:55:00.347Z] INFO: Login correcto para usuario: Sedrick82 desde IP ::ffff:127.0.0.1
+[2025-06-06T09:01:35.957Z] INFO: Logout de usuario: Sedrick82 (ID: 34)
+[2025-06-06T09:01:41.949Z] INFO: Login correcto para usuario: samanta desde IP ::ffff:127.0.0.1
+[2025-06-06T09:05:31.124Z] INFO: Logout de usuario: samanta (ID: 16)
+[2025-06-06T09:05:36.032Z] INFO: Login correcto para usuario: gerardo2 desde IP ::ffff:127.0.0.1
+[2025-06-06T09:06:58.398Z] INFO: Login correcto para usuario: samanta desde IP ::ffff:127.0.0.1
+[2025-06-06T09:21:55.476Z] INFO: Logout de usuario: gerardo2 (ID: 32)
+[2025-06-06T09:22:00.728Z] INFO: Login correcto para usuario: carlos desde IP ::ffff:127.0.0.1
+[2025-06-06T09:23:20.931Z] INFO: Logout de usuario: carlos (ID: 17)
+[2025-06-06T09:23:27.353Z] INFO: Login correcto para usuario: gerardo2 desde IP ::ffff:127.0.0.1
+[2025-06-06T09:24:02.002Z] INFO: Logout de usuario: samanta (ID: 16)
+[2025-06-06T09:24:24.789Z] INFO: Login correcto para usuario: carlos desde IP ::ffff:127.0.0.1
+[2025-06-06T09:44:46.549Z] INFO: Logout de usuario: gerardo2 (ID: 32)
+[2025-06-06T09:55:42.860Z] INFO: Login correcto para usuario: gerardo2 desde IP ::ffff:127.0.0.1
+[2025-06-06T10:16:55.611Z] INFO: Logout de usuario: carlos (ID: 17)
+[2025-06-06T10:17:29.524Z] INFO: Login correcto para usuario: samanta desde IP ::ffff:127.0.0.1
+[2025-06-06T11:47:34.655Z] WARN: Logout con token inválido o expirado
+[2025-06-06T11:50:19.395Z] INFO: Login correcto para usuario: gerardo2 desde IP ::ffff:127.0.0.1
+[2025-06-06T11:51:35.605Z] WARN: Logout con token inválido o expirado
+[2025-06-06T11:51:40.254Z] INFO: Login correcto para usuario: samanta desde IP ::ffff:127.0.0.1
+[2025-06-06T11:54:33.682Z] INFO: Logout de usuario: samanta (ID: 16)
+[2025-06-06T11:54:37.921Z] INFO: Login correcto para usuario: samanta desde IP ::ffff:127.0.0.1
+[2025-06-06T12:06:46.597Z] INFO: Logout de usuario: gerardo2 (ID: 32)
+[2025-06-06T12:06:52.050Z] INFO: Login correcto para usuario: gerardo2 desde IP ::ffff:127.0.0.1
+[2025-06-06T12:49:11.394Z] INFO: Logout de usuario: gerardo2 (ID: 32)
+[2025-06-06T12:49:17.532Z] INFO: Login correcto para usuario: gerardo2 desde IP ::ffff:127.0.0.1
+[2025-06-10T10:26:07.522Z] WARN: Logout con token inválido o expirado
+[2025-06-10T10:26:14.400Z] INFO: Login correcto para usuario: gerardo2 desde IP ::ffff:127.0.0.1
+[2025-06-10T10:26:19.969Z] INFO: Logout de usuario: gerardo2 (ID: 32)
+[2025-06-10T10:31:11.972Z] INFO: Login correcto para usuario: gerardo2 desde IP ::ffff:127.0.0.1
+[2025-06-10T10:32:45.949Z] INFO: Logout de usuario: gerardo2 (ID: 32)
+[2025-06-10T10:33:02.126Z] INFO: Login correcto para usuario: gerardo2 desde IP ::ffff:127.0.0.1
+[2025-06-10T10:34:39.762Z] INFO: Logout de usuario: gerardo2 (ID: 32)
+[2025-06-10T10:35:04.001Z] INFO: Login correcto para usuario: gerardo2 desde IP ::ffff:127.0.0.1
+[2025-06-10T11:23:43.493Z] INFO: Logout de usuario: gerardo2 (ID: 32)
+[2025-06-10T16:00:50.711Z] INFO: Login correcto para usuario: gerardo2 desde IP ::ffff:127.0.0.1
+[2025-06-11T07:17:31.965Z] WARN: Logout con token inválido o expirado
+[2025-06-11T07:17:37.645Z] INFO: Login correcto para usuario: gerardo2 desde IP ::ffff:127.0.0.1
+[2025-06-11T07:36:32.835Z] INFO: Logout de usuario: gerardo2 (ID: 32)
+[2025-06-11T07:36:40.695Z] INFO: Login correcto para usuario: gerardo2 desde IP ::ffff:127.0.0.1
+[2025-06-11T11:11:23.396Z] INFO: Login correcto para usuario: gerardo2 desde IP ::ffff:127.0.0.1
+[2025-06-11T11:56:21.085Z] INFO: Logout de usuario: gerardo2 (ID: 32)
+[2025-06-14T09:27:34.766Z] INFO: Login correcto para usuario: gerardo2 desde IP ::ffff:127.0.0.1
+[2025-06-15T13:34:44.275Z] INFO: gerardo ha envíado un mensaje de contacto al servidor
+[2025-06-15T13:38:57.784Z] INFO: dssd ha envíado un mensaje de contacto al servidor
+[2025-06-15T13:41:04.902Z] INFO: asdsa ha envíado un mensaje de contacto al servidor
+[2025-06-15T13:46:50.116Z] INFO: dada ha envíado un mensaje de contacto al servidor
+[2025-06-15T13:47:16.640Z] INFO: dsadsssda ha envíado un mensaje de contacto al servidor
+[2025-06-15T13:54:36.442Z] INFO: das ha envíado un mensaje de contacto al servidor
+[2025-06-15T14:01:25.284Z] INFO: sd ha envíado un mensaje de contacto al servidor
+[2025-06-15T14:04:42.704Z] INFO: ddd ha envíado un mensaje de contacto al servidor
+[2025-06-15T14:16:17.067Z] ERROR: function () { [native code] }
+[2025-06-15T14:31:01.088Z] ERROR: Error: SQLITE_CONSTRAINT: NOT NULL constraint failed: contacto.mensaje
+[2025-06-15T14:33:18.949Z] ERROR: Error: SQLITE_CONSTRAINT: NOT NULL constraint failed: contacto.mensaje
+[2025-06-15T14:34:26.911Z] ERROR: Error: SQLITE_CONSTRAINT: NOT NULL constraint failed: contacto.mensaje
+[2025-06-15T14:34:32.170Z] INFO: sd ha envíado un mensaje de contacto al servidor
+[2025-06-15T14:44:10.109Z] ERROR: Error: SQLITE_CONSTRAINT: NOT NULL constraint failed: contacto.mensaje
+[2025-06-15T14:44:13.065Z] INFO: dsa ha envíado un mensaje de contacto al servidor
+[2025-06-18T16:18:16.716Z] WARN: Logout con token inválido o expirado
+[2025-06-18T16:18:31.801Z] INFO: Login correcto para usuario: gerardo2 desde IP ::ffff:127.0.0.1
+[2025-06-18T16:22:25.849Z] INFO: Logout de usuario: gerardo2 (ID: 32)
+[2025-06-18T16:22:30.653Z] INFO: Login correcto para usuario: gerardo2 desde IP ::ffff:127.0.0.1
+[2025-06-18T16:23:29.005Z] INFO: Logout de usuario: gerardo2 (ID: 32)
+[2025-06-18T16:23:33.402Z] INFO: Login correcto para usuario: gerardo2 desde IP ::ffff:127.0.0.1
+[2025-06-18T16:26:25.648Z] INFO: Logout de usuario: gerardo2 (ID: 32)
+[2025-06-18T16:26:30.068Z] INFO: Login correcto para usuario: gerardo2 desde IP ::ffff:127.0.0.1
+[2025-06-18T16:29:51.396Z] INFO: Logout de usuario: gerardo2 (ID: 32)
+[2025-06-18T16:29:57.167Z] INFO: Login correcto para usuario: gerardo2 desde IP ::ffff:127.0.0.1
+[2025-06-18T16:39:17.918Z] INFO: gerardo2 ha añadido una reseña
+[2025-06-18T16:39:36.276Z] INFO: Logout de usuario: gerardo2 (ID: 32)
+[2025-06-21T07:40:58.573Z] INFO: Login correcto para usuario: gerardo2 desde IP ::ffff:127.0.0.1
+[2025-06-21T07:41:13.838Z] INFO: gerardo2 ha añadido una reseña
+[2025-06-21T07:43:10.678Z] INFO: gerardo2 ha añadido una reseña
+[2025-06-21T07:43:21.351Z] INFO: gerardo2 ha añadido una reseña
+[2025-06-21T07:43:32.358Z] INFO: gerardo2 ha añadido una reseña
+[2025-06-21T07:43:42.347Z] INFO: gerardo2 ha añadido una reseña
+[2025-06-21T07:52:35.116Z] INFO: Logout de usuario: gerardo2 (ID: 32)
+[2025-06-21T07:52:39.823Z] INFO: Login correcto para usuario: gerardo2 desde IP ::ffff:127.0.0.1
+[2025-06-21T07:59:16.433Z] INFO: Logout de usuario: gerardo2 (ID: 32)
+[2025-06-21T07:59:21.593Z] INFO: Login correcto para usuario: gerardo2 desde IP ::ffff:127.0.0.1
+[2025-06-21T08:01:40.015Z] INFO: Logout de usuario: gerardo2 (ID: 32)
+[2025-06-21T08:01:43.845Z] INFO: Login correcto para usuario: gerardo2 desde IP ::ffff:127.0.0.1
+[2025-06-21T08:10:18.596Z] INFO: Logout de usuario: gerardo2 (ID: 32)
+[2025-06-21T08:10:23.366Z] INFO: Login correcto para usuario: gerardo2 desde IP ::ffff:127.0.0.1
+[2025-06-21T08:13:47.734Z] INFO: Logout de usuario: gerardo2 (ID: 32)
+[2025-06-21T08:13:57.473Z] INFO: Login correcto para usuario: gerardo2 desde IP ::ffff:127.0.0.1
+[2025-06-21T08:14:10.247Z] INFO: gerardo2 ha añadido una reseña
+[2025-06-21T08:16:19.317Z] INFO: gerardo2 ha añadido una reseña
+[2025-06-21T08:34:18.665Z] INFO: Logout de usuario: gerardo2 (ID: 32)
+[2025-06-21T08:34:24.113Z] INFO: Login correcto para usuario: gerardo2 desde IP ::ffff:127.0.0.1
+[2025-06-21T08:34:29.732Z] INFO: gerardo2 ha añadido una reseña
+[2025-06-21T08:37:49.026Z] INFO: gerardo2 ha añadido una reseña
+[2025-06-21T09:22:43.025Z] INFO: Logout de usuario: gerardo2 (ID: 32)
+[2025-06-21T09:24:04.794Z] INFO: Login correcto para usuario: gerardo2 desde IP ::ffff:127.0.0.1
+[2025-06-21T09:28:17.379Z] INFO: Logout de usuario: gerardo2 (ID: 32)
+[2025-06-21T09:28:21.581Z] INFO: Login correcto para usuario: gerardo2 desde IP ::ffff:127.0.0.1
+[2025-06-21T09:40:07.505Z] INFO: gerardo2 se ha inscrito al curso # 10
+[2025-06-21T09:40:10.409Z] INFO: Logout de usuario: gerardo2 (ID: 32)
+[2025-06-21T09:40:15.621Z] INFO: Login correcto para usuario: gerardo2 desde IP ::ffff:127.0.0.1
+[2025-06-21T09:40:30.311Z] INFO: gerardo2 se ha inscrito al curso # 10
+[2025-06-21T09:41:42.096Z] INFO: gerardo2 se ha inscrito al curso # 10
+[2025-06-21T09:55:23.007Z] INFO: Logout de usuario: gerardo2 (ID: 32)
+[2025-06-21T09:55:38.190Z] INFO: Login correcto para usuario: gerardo2 desde IP ::ffff:127.0.0.1
+[2025-06-21T09:55:51.399Z] INFO: gerardo2 se ha inscrito al curso # 10
+[2025-06-21T12:21:10.532Z] INFO: Login correcto para usuario: gerardo2 desde IP ::ffff:127.0.0.1
+[2025-06-21T12:21:11.924Z] INFO: Logout de usuario: gerardo2 (ID: 32)
+[2025-06-21T12:26:35.991Z] INFO: Login correcto para usuario: gerardo2 desde IP ::ffff:127.0.0.1
+[2025-06-21T13:12:29.549Z] INFO: Logout de usuario: gerardo2 (ID: 32)
+[2025-06-21T13:12:34.455Z] INFO: Login correcto para usuario: carlos desde IP ::ffff:127.0.0.1
+[2025-06-21T13:12:44.599Z] INFO: carlos ha actualizado su correo electrónico
+[2025-06-21T13:12:52.770Z] INFO: Logout de usuario: carlos (ID: 17)
+[2025-06-28T09:06:51.601Z] INFO: Login correcto para usuario: gerardo2 desde IP ::ffff:127.0.0.1
+[2025-06-29T12:47:39.117Z] INFO: gerardo ha envíado un mensaje de contacto al servidor
+[2025-06-29T13:45:23.127Z] INFO: dsadsa ha envíado un mensaje de contacto al servidor
+[2025-06-29T13:51:02.964Z] INFO: dsdasdsa ha envíado un mensaje de contacto al servidor
+[2025-06-29T13:54:19.076Z] INFO: dads ha envíado un mensaje de contacto al servidor
+[2025-06-29T14:03:01.380Z] INFO: dasdsa ha envíado un mensaje de contacto al servidor
+[2025-06-29T14:03:54.002Z] INFO: dsa ha envíado un mensaje de contacto al servidor
+[2025-06-29T14:10:50.338Z] INFO: dsadsa ha envíado un mensaje de contacto al servidor
+[2025-07-05T09:02:37.110Z] INFO: Login correcto para usuario: gerardo2 desde IP ::ffff:127.0.0.1
+[2025-07-05T09:02:49.828Z] INFO: Logout de usuario: gerardo2 (ID: 32)
+[2025-07-05T15:12:32.961Z] INFO: El recurso con id: 1 de la tabla contactos ha sido eliminado por el administrador
+[2025-07-05T15:12:44.945Z] INFO: El recurso con id: 2 de la tabla contactos ha sido eliminado por el administrador
+[2025-07-05T15:12:51.547Z] INFO: El recurso con id: 18 de la tabla contactos ha sido eliminado por el administrador
+[2025-07-05T15:12:56.271Z] INFO: El recurso con id: 17 de la tabla contactos ha sido eliminado por el administrador
+[2025-07-05T15:13:02.039Z] INFO: El recurso con id: 16 de la tabla contactos ha sido eliminado por el administrador
+[2025-07-05T17:23:53.114Z] INFO: El recurso con id: 4 de la tabla contactos ha sido eliminado por el administrador

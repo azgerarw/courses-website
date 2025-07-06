@@ -1,0 +1,125 @@
+@import "tailwindcss";
+
+@tailwind utilities;
+@custom-variant dark (&:where(.dark, .dark *));
+
+/* layout starts */
+  
+  .icon {
+    @apply text-blueproject text-[24px] cursor-pointer dark:text-white; 
+  }
+
+  h2 {
+    @apply text-blueproject text-center font-bold text-lg my-5 top-5 dark:text-white;
+  }
+
+  header {
+    @apply flex items-center sticky top-0 border-b-1 border-blueproject w-dvw z-5 h-[50px] bg-white dark:bg-black dark:border-white;
+  }
+
+  .li-hover-style {
+    @apply  w-full text-center hover:border-b-1 hover:border-blueproject dark:hover:border-white;
+  }
+
+  a {
+    @apply text-blueproject hover:cursor-pointer dark:text-white; 
+  }
+
+  /* layout ends */
+
+  /* inicio starts */
+
+  @theme {
+
+    --animate-spinY: spinY 3s linear infinite;
+
+    --animate-marquee: marquee 30s linear infinite;
+
+    --color-blueproject: oklch(42.4% 0.199 265.638);
+    
+    @keyframes spinY {
+      0% {
+        transform: rotateY(0deg);
+      }
+      100% {
+        transform: rotateY(360deg);
+      }
+    }
+
+
+    @keyframes marquee {
+    0% {
+      transform: translateX(0%);
+    }
+    100% {
+      transform: translateX(-50%);
+    }
+  }
+  }
+
+  .marketing {
+    @apply mx-8 inline-block text-blueproject dark:text-white;
+  }
+
+  /* inicio ends */
+
+  /* perfil usuario starts */ 
+
+  .inscripciones_perfil {
+    @apply flex flex-row justify-between w-full;
+  }
+
+  form.form_foto {
+    @apply hidden w-fit h-fit shadow-[0px_0px_5px_0px_black];
+  }
+
+  form.form_email {
+    @apply absolute z-3 hidden top-[60px];
+  }
+
+  /* perfil usuario ends */ 
+
+  /*forms starts */
+
+  form {
+    @apply min-w-[300px] max-w-[350px] h-auto flex flex-col m-auto p-6 justify-start items-center gap-2 shadow-[0px_0px_5px_0px_black] dark:bg-gray-800;
+
+    label {
+    @apply w-full text-left flex flex-row items-center gap-2;
+    }
+
+    select {
+    @apply w-full items-center;
+    }
+
+    fieldset {
+    @apply w-full flex flex-col gap-2;
+    }
+
+    input {
+      @apply w-full border-b-1 border-b-blue-800 h-[25px] dark:border-b-white;
+    }
+
+    input[type="radio"] {
+      @apply w-auto;
+    }
+
+    input::placeholder {
+      @apply text-center;
+    }
+
+    textarea {
+      @apply w-full max-w-full min-h-[120px] bg-blue-100 h-auto p-0;
+    }
+  }
+
+  /*forms ends */
+
+
+
+
+
+
+
+
+
